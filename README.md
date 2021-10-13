@@ -18,3 +18,6 @@ Repositorio de prueba para PB2 UNLaM.
 -Lleva a cabo el control sanitario de las diferentes tipologías de empresas y establecimientos de restauración y alimentación, así como la implantación y supervisión de sistemas de gestión de la calidad.
 -Realiza análisis de riesgo, incluyendo los medioambientales y de bioseguridad; posteriormente, los valora y los gestiona para evitar riesgos o erradicarlos.
 -Asesora y gestiona, técnica y económicamente, a empresas del ámbito veterinario en un contexto de sostenibilidad.
+
+
+Agrego algunas líneas al texto para probar los cambios.
